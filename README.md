@@ -2,4 +2,7 @@ mmreviver.github.com
 ====================
 
 Used for my Github Pages
-> It's kind of test for me to establish the blog myself on Github.com
+- Perform as my Homepage
+- Post my own notes or passages
+- Start rebuilding from Oct.5 2013
+- etc.
